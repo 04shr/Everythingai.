@@ -1,0 +1,142 @@
+<li> <a href="https://www.slidesai.io/" target="_blank">Slidesai</a><br><span>It is is an AI-powered tool that can transform any text into a visually appealing presentation. It uses natural language processing (NLP) to understand the meaning of your text and then generate slides that are relevant, engaging, and easy to understand. SlidesAI also offers a variety of features to help you customize your presentations, such as a wide range of templates, charts, and graphs. </span></li>
+            <br>
+
+            <li> <a href="https://www.decktopus.com/" target="_blank">decktopus</a><br><span>It is an AI-powered website. You can get a summary of any long YouTube video, like a lecture, live event or a meeting.</span></li>
+            <br>
+
+            <li> <a href="https://www.beautiful.ai/">beautiful.ai</a><br><span>It is an AI-powered presentation software that helps you create stunning and engaging presentations in minutes. It uses artificial intelligence to automatically suggest layouts, fonts, and colors that will make your presentations look their best. Beautiful.ai also has a library of pre-designed templates that you can use to get started quickly.</span></li>
+            <br>
+
+            <li> <a href="https://gamma.app/?lng=en" target="_blank">gamma.app</a><br><span>It can generate docs, decks & webpages in seconds.
+                Create a working presentation, document or webpage you can refine and customize in under a minute, using our powerful AI generator.</span>
+            </li>  
+            <br>
+         </ul>
+          
+
+            <li> <a href="https://www.chatpdf.com/" target="_blank">ChatPDF</a><br><span>It is a  AI-powered tool that allows you to have a conversation with any PDF document. Simply upload your PDF and start asking questions. Chat with PDF will provide instant answers, backed by the information in your PDF. </span></li>
+            <br>
+            
+            <li> <a href="https://www.grammarly.com/" target="_blank">Grammarly</a><br><span>It is an AI-powered writing assistant that helps students improve their writing by checking for grammar, spelling, and style errors. It provides suggestions for enhancing clarity and coherence in essays, reports, and other written assignments. </span></li>
+            <br>
+
+            <li > <a href="https://quizlet.com/en-gb" target="_blank">Quizlet</a><br><span>Quizlet is an AI-powered study tool that enables students to create flashcards, quizzes, and study sets. The AI algorithm adapts to each student's progress, making it easier to memorize and review information.</span></li>
+            <br>
+
+            <li> <a href="https://cloud.google.com/duet-ai">Duet AI</a><br><span>It is a generative AI tool that helps you write, visualize, organize, and much more. It can help you write emails, proposals, and other documents, generate visuals for presentations, and create project trackers in Sheets. You can also use Duet AI to generate custom backgrounds for your video calls.</span></li>
+            <br>
+
+            <li> <a href="https://otter.ai/" target="_blank">otter.ai</a><br><span>It is an AI-powered transcription tool. It can be useful for students in recording and transcribing lectures, discussions, and interviews, making it easier to review and organize information. </span></li>
+            <br>
+            <li> <a href="https://skylum.com/luminar?utm_source=google&utm_medium=cpc&utm_campaign=Luminar_Neo_Brand_search_ind&utm_term=Luminar_Neo_exact&utm_source=google&utm_medium=cpc&utm_campaign=Luminar_Neo_Brand_search_ind&utm_term=Luminar_Neo_exact&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEpv19qgnIoG-c0oZzbugsHWE6QiO1siGRiPdSnVxojQjA-9XFvAGdBoCbDoQAvD_BwE" target="_blank">Luminar Neo</a><br><span>It is an AI-powered photo editor that can help you to enhance your photos with just a few clicks. It offers a variety of AI features, such as sky replacement, object removal, and image upscaling.</span></li>
+            <br>
+
+            <li> <a href="https://www.summarize.tech/" target="_blank">summarize.tech</a><br><span>It is an AI-powered website. You can get a summary of any long YouTube video, like a lecture, live event or a meeting.</span></li>
+            <br>
+           
+            <li> <a href="https://codeium.com/?gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEsC8HIUsVzqU3Ut_ctTHkZlOvIQ17LJaksZsq4W0woP6at5swDU-iBoCFlUQAvD_BwE" target="_blank">codeium</a><br><span>It is a free AI-powered code completion tool that helps developers write code faster and more accurately. It supports over 70 programming languages and integrates with popular IDEs, notebooks, and other tools.</span></li>
+            <br>
+           
+           
+           
+            <li> <a href="https://theresanaiforthat.com/s/prompt+genie/" target="_blank">prompt genie</a><br><span>It is an AI tool designed to help users create better prompts for ChatGPT. Prompt Genie works by generating "SUPER Prompts" that are more effective at getting ChatGPT to produce the desired results.Prompt Genie is especially useful for users who are new to ChatGPT or who are struggling to get the results they want. </span></li>
+            <br>
+           
+            <li> <a href="https://invideo.io/ai/?utm_source=google&utm_medium=cpc&utm_campaign=Global_Search_Brand_Exact_EN&adset_name=Invideo_AI&keyword=invideo%20.ai&network=g&device=c&utm_term=invideo%20.ai&utm_content=Invideo_AI&matchtype=e&placement=g&campaign_id=18035330774&adset_id=152533182894&ad_id=674819400174&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEsi_VfTDz9pg6rwg6snODga6TFZ78tfCMoF9sG_6uCdDAIlECHQbgxoCro4QAvD_BwE" target="_blank">invideo.io</a><br><span>Enter any topic, and invideo AI gets to work. It generates your script, creates scenes, adds voiceovers, & tweaks the video at your command. With invideo AI as your co-pilot, engaging your audience is effortlessly simple!</span></li>
+            <br>
+           
+            <li> <a href="https://murf.ai/" target="_blank">murf.ai</a><br><span>
+                Murf.ai is a text-to-speech (TTS) tool that uses artificial intelligence (AI) to generate realistic human voices.</span></li>
+            <br>
+        
+            <li > <a href=https://www.synthesia.io/homepage" target="_blank">Synthesia.io</a><br><span>
+                It is a video creation platform that uses artificial intelligence (AI) to create realistic human videos from text. With Synthesia.io, you can create videos without the need for actors, cameras, or editing skills.</span></li>
+            <br>
+
+            <li > <a href=https://www.synthesia.io/homepage" target="_blank">Synthesia.io</a><br><span>
+                It is a video creation platform that uses artificial intelligence (AI) to create realistic human videos from text. With Synthesia.io, you can create videos without the need for actors, cameras, or editing skills.</span></li>
+            <br>
+        
+            <li> <a href="https://momen.app/home/" target="_blank">momen.app</a><br><span>
+                Build every part of your product from the visually stunning frontend to the powerful backend using our intuitive drag-and-drop editor. Develop complex logic and database easily with our fully customizable platform.</span></li>
+            <br>
+        
+           
+        </ul>
+    </div>
+
+    
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+.bookmarks ul
+{  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    margin: 30px 0 0 20px;
+    padding: 0;
+}
+
+.bookmarks ul li
+{
+   padding: 15px;
+   border-left: 5px solid black;
+   border-style: inset;
+   width:300px;
+   cursor: pointer;
+}
+
+.bookmarks ul li a
+{
+   font-size: 30px;
+   color: black;
+   font-family: sans-serif;
+   font-weight: 600;
+}
+span
+{
+    font-size: 18px;
+    text-decoration: none;
+}
+
+p{
+    font-weight: bold;
+    padding: 0 0 5px 20px;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+
+.bookmarks li 
+{
+    text-align: left; 
+    flex-basis: calc(33.33% - 20px);
+    margin-bottom: 10px; 
+}
+
+@media screen and (max-width: 768px) 
+{
+    .bookmarks ul 
+    {
+        justify-content: center; 
+    }
+
+    .bookmarks li 
+    {
+        flex-basis: 100%; 
+    }
+}

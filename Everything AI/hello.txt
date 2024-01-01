@@ -1,0 +1,113 @@
+
+          
+
+            
+           
+            
+          
+            
+           
+            <li> <a href="https://codeium.com/?gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEsC8HIUsVzqU3Ut_ctTHkZlOvIQ17LJaksZsq4W0woP6at5swDU-iBoCFlUQAvD_BwE" target="_blank">codeium</a><br><span>It is a free AI-powered code completion tool that helps developers write code faster and more accurately. It supports over 70 programming languages and integrates with popular IDEs, notebooks, and other tools.</span></li>
+            <br>
+           
+           
+            <li> <a href="https://theresanaiforthat.com/s/prompt+genie/" target="_blank">prompt genie</a><br><span>It is an AI tool designed to help users create better prompts for ChatGPT. Prompt Genie works by generating "SUPER Prompts" that are more effective at getting ChatGPT to produce the desired results.Prompt Genie is especially useful for users who are new to ChatGPT or who are struggling to get the results they want. </span></li>
+            <br>
+           
+           
+           
+            <li> <a href="https://momen.app/home/" target="_blank">momen.app</a><br><span>
+                Build every part of your product from the visually stunning frontend to the powerful backend using our intuitive drag-and-drop editor. Develop complex logic and database easily with our fully customizable platform.</span></li>
+            <br>
+        
+           
+        </ul>
+    </div>
+
+    
+
+<br>
+
+
+<li > <a href="https://www.synthesia.io/homepage" target="_blank">Synthesia.io</a><br><span>
+            It is a video creation platform that uses artificial intelligence (AI) to create realistic human videos from text. With Synthesia.io, you can create videos without the need for actors, cameras, or editing skills.</span></li>
+        <br>
+    
+        <li> <a href="https://murf.ai/" target="_blank">murf.ai</a><br><span>
+            Murf.ai is a text-to-speech (TTS) tool that uses artificial intelligence (AI) to generate realistic human voices.</span></li>
+        <br>
+    
+        <li> 
+            <a href="https://designer.microsoft.com/" target="_blank">vanceai</a><br><span>A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more.
+            </span>
+        </li>
+        </ul>
+
+
+
+
+
+
+
+
+
+.bookmarks ul
+{  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    margin: 30px 0 0 20px;
+    padding: 0;
+}
+
+.bookmarks ul li
+{
+   padding: 15px;
+   border-left: 5px solid black;
+   border-style: inset;
+   width:300px;
+   cursor: pointer;
+}
+
+.bookmarks ul li a
+{
+   font-size: 30px;
+   color: black;
+   font-family: sans-serif;
+   font-weight: 600;
+}
+span
+{
+    font-size: 18px;
+    text-decoration: none;
+}
+
+p{
+    font-weight: bold;
+    padding: 0 0 5px 20px;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+
+.bookmarks li 
+{
+    text-align: left; 
+    flex-basis: calc(33.33% - 20px);
+    margin-bottom: 10px; 
+}
+
+@media screen and (max-width: 768px) 
+{
+    .bookmarks ul 
+    {
+        justify-content: center; 
+    }
+
+    .bookmarks li 
+    {
+        flex-basis: 100%; 
+    }
+}
